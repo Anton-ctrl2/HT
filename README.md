@@ -61,7 +61,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Привет, я [Ваше Имя]!</h1>
+        <h1>Привет, я Антон!</h1>
         
         <img src="your-photo.jpg" alt="Моё фото" class="photo">
         
